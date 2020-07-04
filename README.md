@@ -139,7 +139,7 @@ _Fundamentals of Computing_ will also start by introducing you to Python. It the
 Courses | Effort | Prerequisites
 :-- | :--: | :--:
 [Python for Everyone](https://www.coursera.org/specializations/python) ([alt](https://www.py4e.com/)) = **Done** | 58 hours | none
-[Fundamentals of Computing](https://www.coursera.org/specializations/computer-fundamentals) **Done**| 138 hours | high school mathematics
+[Fundamentals of Computing](https://www.coursera.org/specializations/computer-fundamentals) **Done**| 138 hours | high school mathematics **Finish projects??**
 
 ### Introduction to Computer Science
 
@@ -178,12 +178,7 @@ All coursework under Core CS is **required**, unless otherwise indicated.
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) **Done**| 7 weeks | 8-10 hours/week | none
-[How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) | 6 weeks | 8-10 hours/week | How to Code: Simple Data
-[Software Construction - Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x) | 6 weeks | 8-10 hours/week | How to Code - Complex Data
-[Software Construction - Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x) | 6 weeks | 8-10 hours/week | Software Construction - Data Abstraction
-[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 4 weeks | 8-16 hours/week | recommended: Java, C
-[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 8-16 hours/week | Programming Languages, Part A
-[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 8-16 hours/week | Programming Languages, Part B
+[How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) **Done** | 6 weeks | 8-10 hours/week | How to Code: Simple Data **Finish Projects???** week | Programming Languages, Part B
 
 #### Readings
 - **Required** to learn about monads, laziness, purity: [Learn You a Haskell for a Great Good!](http://learnyouahaskell.com/)
